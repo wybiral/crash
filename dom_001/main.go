@@ -1,3 +1,5 @@
+// Send an infinite stream of unclosed HTML tags.
+
 package main
 
 import (

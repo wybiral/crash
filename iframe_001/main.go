@@ -1,9 +1,11 @@
+// Send infinite data-URL iframes.
+
 package main
 
 import (
+	"encoding/base64"
 	"math/rand"
 	"net/http"
-	"encoding/base64"
 )
 
 func main() {
