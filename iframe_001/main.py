@@ -1,4 +1,4 @@
-// Send infinite data-URL iframes.
+# Send infinite data-URL iframes.
 
 from os import urandom
 from base64 import b64encode
